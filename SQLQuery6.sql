@@ -1,3 +1,6 @@
+--修正したよ！！
+--修正したよ！！２
+--修正したよ！！３
 SELECT SDT.StudentID
       ,SDT.FirstName
       ,SDT.LastName
